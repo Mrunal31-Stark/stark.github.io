@@ -10,7 +10,7 @@ body {
   width: 100%;
   height: 100%;
   overflow: hidden;
-  background-image: url("./https://i.postimg.cc/1XcLrz2X/pexels-stanley-morales-1487076.jpg");
+  background-image: url("https://img.freepik.com/free-photo/boyfriend-girlfriend-being-affectionate-outdoors_23-2148977618.jpg?w=1060&t=st=1704804927~exp=1704805527~hmac=1c5104df5093f8d6bc2452ad5db376046d9ca48c976fea48ce35b355a65d44d8");
   background-size: 100vh 100vh;
   background-size: cover;
   z-index: -1;
@@ -19,7 +19,7 @@ body {
 
 @keyframes Mrunal {
   0% {
-    background-image: url("./https://i.postimg.cc/1XcLrz2X/pexels-stanley-morales-1487076.jpg");
+    background-image: url("https://img.freepik.com/free-photo/spectral-light-illuminates-transparent-red-colored-red-roses-abstract-flower-art-generative-ai_157027-1729.jpg?w=1380&t=st=1704805054~exp=1704805654~hmac=c90110418e389f5bf21c1160be511c11c3be1ff6ff47a8a6fb9bb7c5317396ce");
   }
   25% {
     background-image: url("./https://i.postimg.cc/vBHgsPwZ/sunset-698501-1280.jpg");
