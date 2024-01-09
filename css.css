@@ -10,7 +10,7 @@ body {
   width: 100%;
   height: 100%;
   overflow: hidden;
-  background-image: url("./img.freepik.com/free-photo/boyfriend-girlfriend-being-affectionate-outdoors_23-2148977618.jpg?w=1060&t=st=1704804927~exp=1704805527~hmac=1c5104df5093f8d6bc2452ad5db376046d9ca48c976fea48ce35b355a65d44d8");
+  background-image: url("https://img.freepik.com/free-vector/butterfly-made-polygons-background_1009-59.jpg?w=740&t=st=1704820355~exp=1704820955~hmac=75d676d1ac3478a2d12b51dd11c05706f594e089df99413c8cbc316d1b51a7ef");
   background-size: 100vh 100vh;
   background-size: cover;
   z-index: -1;
@@ -19,16 +19,16 @@ body {
 
 @keyframes Mrunal {
   0% {
-    background-image: url("./img.freepik.com/free-photo/spectral-light-illuminates-transparent-red-colored-red-roses-abstract-flower-art-generative-ai_157027-1729.jpg?w=1380&t=st=1704805054~exp=1704805654~hmac=c90110418e389f5bf21c1160be511c11c3be1ff6ff47a8a6fb9bb7c5317396ce");
+    background-image: url("https://img.freepik.com/free-photo/spectral-light-illuminates-transparent-red-colored-red-roses-abstract-flower-art-generative-ai_157027-1729.jpg?w=826&t=st=1704820222~exp=1704820822~hmac=705da4897a90088a96990a15deb9fbda2ffc9c51bda6893fe3b7982b0d4627ad");
   }
   25% {
-    background-image: url("./https://i.postimg.cc/vBHgsPwZ/sunset-698501-1280.jpg");
+    background-image: url("https://img.freepik.com/free-vector/landscape-with-trees-against-sunset-sky_1048-14241.jpg?w=740&t=st=1704820433~exp=1704821033~hmac=b46636703f6bd08398df3089ce10ff8e89b728fce15bd29634e369d2e632fd89");
   }
   50% {
-    background-image: url("./i.postimg.cc/9Fq4CRKZ/candles-1645551-1280.jpg");
+    background-image: url("https://img.freepik.com/free-photo/candle-with-lotus-flower-it_1340-25801.jpg?t=st=1704820508~exp=1704824108~hmac=c807290970a37bfc2452817a42427b72a991dfbf912f0cc36f2a0850e23d7501&w=740");
   }
   80% {
-    background-image: url("./i.postimg.cc/w3Kj72ZJ/rose-3407234-1280.jpg");
+    background-image: url("https://img.freepik.com/free-photo/colorful-flower-with-green-leaf-it_1340-42928.jpg?t=st=1704820685~exp=1704824285~hmac=17415ae13c109695f854377acd2c4345459e7692fb32d0dca28788e0f05ad46a&w=360");
   }
 }
 
